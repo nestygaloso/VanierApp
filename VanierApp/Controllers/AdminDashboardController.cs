@@ -288,6 +288,7 @@ namespace VanierApp.Controllers
 
             return RedirectToAction("Index"); // Enusre  - Enroll a student in a course
                                               // New Note  -  Enusre  - Enroll a student in a course
+                                              // New Note  -  Enusre  - Enroll a student in a course 2
         }
 
     }
